@@ -1,4 +1,4 @@
-//ใช้ `สำหรับ string ที่ต้องการขึ้นบรรทัดใหม่
+//ใช้ `สำหรับ string ที่ต้องการขึ้นบรรทัดใหม่04
 const multi =`In ES6
 multi-lines is
 okay.`
